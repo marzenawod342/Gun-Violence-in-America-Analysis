@@ -23,4 +23,4 @@ The data contains more than 260,000 incidents of gun violence. It also contains 
   - scikit-learn
 - Scripts completed in Jupyter
 - Final presentation created in Tableau
-  - view [here] https://public.tableau.com/views/GunViolenceintheU_S__17342856316500/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  - view [here] (https://public.tableau.com/views/GunViolenceintheU_S__17342856316500/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
