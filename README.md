@@ -1,4 +1,4 @@
-# Gun-Violence-in-America-Analysis
+# Gun Violence in America Analysis
 Gun violence continues to be a significant public health crisis in the United States, with around 40,000 deaths related to firearms each year, underscoring the pressing need for comprehensive policy solutions to tackle this issue according to the Centers for Disease Control and Prevention.
 
 # Objective
